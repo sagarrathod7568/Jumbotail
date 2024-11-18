@@ -13,7 +13,7 @@ const WarehouseLocator = () => {
 
   return (
     <div className="p-4 border rounded-md shadow-md mt-12">
-      <h2>Find Nearest Warehouse</h2>
+      <h2 className="text-xl font-semibold mb-4">Find Nearest Warehouse</h2>
       <input
         className="p-2 my-2 border rounded-md w-full"
         type="text"
