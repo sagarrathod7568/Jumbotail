@@ -2,14 +2,15 @@
 
 # E-Commerce Shipping Charge Estimator
 
-This is a simple backend API for estimating shipping charges in a B2B e-commerce marketplace. The application helps Kirana stores in India to calculate shipping charges based on product weight, transport mode, delivery speed, and the distance between the warehouse and customer.
+This is a simple backend API for estimating shipping charges in a B2B e-commerce marketplace. The application helps Kirana stores in India to calculate shipping charges based on product weight, transport mode, delivery speed, and the distance between the warehouse and the customer.
 
 ## Project Overview
 
-The **Shipping Charge Estimator** calculates the shipping charges for delivering products from a seller's warehouse to a customer's location. It includes features like:
+The **Shipping Charge Estimator** calculates the shipping charges for delivering products from a seller's warehouse to a customer's location.
+It includes features like:
 ![Screenshot 2024-11-18 170748](https://github.com/user-attachments/assets/18b51c8f-15e9-4fbd-a6c4-678d8a0495f0)
 
-- Finding the nearest warehouse for a seller's product.
+- Finding the nearest warehouse for a seller's product.  
 ![Screenshot 2024-11-18 170915](https://github.com/user-attachments/assets/91a4f12c-c381-4d6a-b360-5ad68b78882f)
 
 - Calculating shipping charges based on the distance and transport mode.
