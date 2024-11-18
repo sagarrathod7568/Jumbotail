@@ -25,13 +25,13 @@ The **Shipping Charge Estimator** calculates the shipping charges for delivering
   ```http
   GET /api/v1/warehouse/nearest?sellerId=123&productId=456
 
-git clone https://github.com/sagarrathod7568/Jumbotail.git
+`git clone https://github.com/sagarrathod7568/Jumbotail.git
+cd Jumbotail`
 
-cd backend
+`cd backend
 npm install
-node app.js
+node app.js`
 
-cd frontend
+`cd frontend
 npm install
-npm run build
-
+npm run build`
