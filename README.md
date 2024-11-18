@@ -6,8 +6,8 @@ This is a simple backend API for estimating shipping charges in a B2B e-commerce
 
 ## Project Overview
 
-The **Shipping Charge Estimator** calculates the shipping charges for delivering products from a seller's warehouse to a customer's location.
-It includes features like:
+-The **Shipping Charge Estimator** calculates the shipping charges for delivering products from a seller's warehouse to a customer's location.
+It includes features like.
 ![Screenshot 2024-11-18 170748](https://github.com/user-attachments/assets/18b51c8f-15e9-4fbd-a6c4-678d8a0495f0)
 
 - Finding the nearest warehouse for a seller's product.  
